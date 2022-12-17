@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel ="stylesheet" href ="styles/Advanced.css"> 
+        
+        </head>
+    
+    <body>
+        <div class = body-wrapper>
+        <div class="side-wrapper">
+            <p>testets</p>
+        </div>
+
+
+
+
+
+        <div class="main-wrapper">
+            <div class = grid >
+      
+                
+                
+            
+            </div>
+            <div class = background>
+                <h1 class = textinsidebackgrounds>Search for anime girls... </h1>
+                
+            </div>   
+
+            <div class = background4tabs>
+              
+
+                <img class = "images" src = "images/animegirls.png">
+                <img class = "images" src = "images/animegirls.png">
+                <img class = "images" src = "images/animegirls.png">
+                <img class = "images" src = "images/animegirls.png">
+                <img class = "images" src = "images/animegirls.png">
+                <img class = "images" src = "images/animegirls.png">
+
+
+
+
+        </div>
+    </div>
+    </body>    
+</html>
